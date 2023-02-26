@@ -1,0 +1,21 @@
+- layout: top-middle
+  name: Nunc
+  link: https://github.com/bangjaeyoung
+  quote: >
+    2023.01.01 ~ 현재
+  description: | # this will include new lines to allow paragraphs
+    * Praesent laoreet tortor consequat turpis pulvinar, ut aliquam massa tempor.
+    * Nullam eu felis a elit feugiat pretium ac ut tortor.
+    * Sed eget lorem suscipit risus pharetra ultrices ut id quam.
+    * Donec dignissim risus eget sagittis suscipit.
+
+- layout: top-middle
+  name: Nunc
+  link: https://github.com/bangjaeyoung
+  quote: >
+    2023.01.01 ~ 현재
+  description: | # this will include new lines to allow paragraphs
+    * Praesent laoreet tortor consequat turpis pulvinar, ut aliquam massa tempor.
+    * Nullam eu felis a elit feugiat pretium ac ut tortor.
+    * Sed eget lorem suscipit risus pharetra ultrices ut id quam.
+    * Donec dignissim risus eget sagittis suscipit.

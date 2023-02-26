@@ -1,0 +1,23 @@
+- layout: left
+  name: Maecenas eget massa ut eros viverra varius.
+  dates: 2023.01 ~ 2023.03
+  link: https://github.com/bangjaeyoung
+  description: | # this will include new lines to allow paragraphs
+    * Aenean in sapien suscipit, gravida ipsum id, porttitor mauris.
+    * Cras luctus quam at massa efficitur dictum.
+
+- layout: left
+  name: Maecenas eget massa ut eros viverra varius.
+  dates: 2023.01 ~ 2023.03
+  link: https://github.com/bangjaeyoung
+  description: | # this will include new lines to allow paragraphs
+    * Aenean in sapien suscipit, gravida ipsum id, porttitor mauris.
+    * Cras luctus quam at massa efficitur dictum.
+
+- layout: left
+  name: Maecenas eget massa ut eros viverra varius.
+  dates: 2023.01 ~ 2023.03
+  link: https://github.com/bangjaeyoung
+  description: | # this will include new lines to allow paragraphs
+    * Aenean in sapien suscipit, gravida ipsum id, porttitor mauris.
+    * Cras luctus quam at massa efficitur dictum.
