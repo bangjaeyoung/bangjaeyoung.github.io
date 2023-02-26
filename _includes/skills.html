@@ -1,0 +1,7 @@
+<div class="container education-container">
+    <h3>{{ site.education_title | default: "Skills" }}</h3>
+    <p class="quote">현재 익숙하게 사용할 수 있는 기술들입니다.</p>
+    {% for education in site.data.skills %}
+        {% include {{ education.layout | default: 'left' | append: ".html" }} item=education %}
+    {% endfor %}
+</div>
