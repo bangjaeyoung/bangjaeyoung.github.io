@@ -3,7 +3,7 @@ repository: bangjaeyoung/bangjaeyoung.github.io
 
 # Personal info
 name: 방재영
-title: 서버 백엔드 엔지니어
+title: 백엔드 개발자
 email: qkdwo4613@gmail.com
 website: https://jaeyoungb.tistory.com/
 
@@ -16,18 +16,16 @@ instagram_username: qkdwodud_
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  * <mark>경청하는 자세</mark>
-  <br/>피드백을 적극적으로 수용하며, 항상 러닝커브를 높이기 위해 고민하고 귀를 기울입니다.<br/>
-  <br/>
+  * 안녕하세요. 백엔드 개발자를 희망하는 방재영입니다.<br/><br/>
   
-  * <mark>매끄러운 의사소통</mark>
-  <br/>주변과 원활하게 소통하며 더 나은 협업을 위해 적극적으로 생각을 공유합니다.<br/>
-  <br/>
+  * Lorem ipsum dolor sit amet, consectetur adipiscing elit.<br/><br/>
   
-  * <mark>꾸준한 블로깅 및 1일 1커밋 실천</mark>
-  <br/>지속적인 성장을 목표로 잡고 조금씩이라도 매일 성장하기 위해 노력합니다.<br/>
-  <br/>
+  * Nullam laoreet ligula non lorem rutrum, et tempus sapien semper.<br/><br/>
   
+  * Curabitur eget nulla sed odio finibus tincidunt.<br/><br/>
+  
+# Skill Section
+# Skill_title: Skills
 
 # Projects Section
 # projects_title: Projects
@@ -37,15 +35,6 @@ about_content: | # this will include new lines to allow paragraphs
 
 # Education Section
 # educaton_title: Education
-
-# More Section
-# more_title: A Little More About Me
-more_content: | # this will include new lines to allow paragraphs
-  Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-   - Rock climbing
-   - Gaming
-   - Knitting
-   - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
 # Footer
 footer_show_references: true
