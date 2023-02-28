@@ -5,18 +5,15 @@
     실시간 국내 주식 조회와 가상 모의 투자를 구현한 웹 서비스
   link: https://github.com/bangjaeyoung/stockbox
   description: | # this will include new lines to allow paragraphs
-    * <b>실시간 주식 정보 조회, 증권 뉴스 조회 기능 개발</b>
-    <br>
+    * <b>실시간 주식 정보 조회, 증권 뉴스 조회 기능 개발</b><br>
     &#45; 공공데이터포털, 한국투자증권, 네이버 Developers Open API 사용
-    <br><br>
-    * <b>전체 주식 정보 API 요청 시간 평균 3s -> 0.3s로 개선</b>
-    <br>
+    
+    * <b>전체 주식 정보 API 요청 시간 평균 3s -> 0.3s로 개선</b><br>
     &#45; 주식 정보를 DB에 저장하고 스케쥴링으로 관리하여 클라이언트에 응답하는 방식으로 개선
-    <br><br>
-    * <b>가상 모의 투자 기능 개발</b>
-    <br>
+    
+    * <b>가상 모의 투자 기능 개발</b><br>
     &#45; 거래 도메인으로 주식 매매와 매매 정보 확인 가능하도록 구현
-    <br><br>
+    
     * <b>주식 종목 북마크 기능 개발</b>
     <br><br>
     <mark>해당 프로젝트는 더 이상 서비스를 하지 않습니다</mark>
