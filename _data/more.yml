@@ -1,0 +1,22 @@
+- layout: left
+  dates: <h4>2022.08 ~ 2023.02</h4>
+  link: https://jaeyoungb.tistory.com/106
+  description: | # this will include new lines to allow paragraphs
+    <h4><b>&nbsp;&nbsp;&nbsp;&nbsp; 코드스테이츠</b></h4>
+    <i><font color="gray">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Software Engineering Backend 41기 - 수료</font></i>
+    <br>
+    * 컴퓨터 프로그래밍의 기초적인 지식 학습
+    * Java & Spring 기반으로 전반적인 백엔드 과정 학습
+    * 약 20주 동안 강도 높은 과제 수행 및 페어 프로그래밍 진행, 매일 알고리즘 문제 풀이 진행
+    * 약 6주 동안 2회의 협업 프로젝트 경험
+    <br><br>
+
+- layout: left
+  dates: <h4>2022.06 ~ 2022.08</h4>
+  link: https://jaeyoungb.tistory.com/10
+  description: | # this will include new lines to allow paragraphs
+    <h4><b>&nbsp;&nbsp;&nbsp;&nbsp; 패스트캠퍼스</b></h4>
+    <i><font color="gray">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Java & SpringBoot로 시작하는 웹 프로그래밍 중급 - 수료</font></i>
+    <br>
+    * Java와 SpringBoot의 전반적인 기초 개념 및 심화 개념 학습
+    * 간단한 클론 프로젝트와 기본 CRUD 기능을 포함한 프로젝트 구현
