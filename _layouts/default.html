@@ -19,12 +19,20 @@
         {%- include projects.html -%}
         {%- endif -%}
 
+        {%- if site.data.more.size > 0 -%}
+        {%- include more.html -%}
+        {%- endif -%}
+
+
         {%- if site.data.education.size > 0 -%}
         {%- include education.html -%}
         {%- endif -%}
+
     </div>
 </main>
+
 {%- include footer.html -%}
+
 </body>
 
 </html>

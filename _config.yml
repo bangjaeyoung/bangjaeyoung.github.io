@@ -3,7 +3,7 @@ repository: bangjaeyoung/bangjaeyoung.github.io
 
 # Personal info
 name: 방재영
-title: 백엔드 개발자
+title: Java 백엔드 개발자
 email: qkdwo4613@gmail.com
 website: https://jaeyoungb.tistory.com/
 
@@ -16,15 +16,16 @@ instagram_username: qkdwodud_
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  * 안녕하세요. 신입 백엔드 개발자 방재영입니다.<br/><br/>
+  * 안녕하세요. 신입 백엔드 개발자 방재영입니다.<br>
   
-  * <mark>경청하는 자세</mark>로 항상 러닝커브를 높이기 위해 고민하고 귀를 기울입니다.<br/><br/>
+  * <mark>경청하는 자세</mark>로 항상 러닝커브를 높이기 위해 고민하고 귀를 기울입니다.<br>
   
-  * <mark>매끄러운 의사소통</mark>으로 주변과 원활하게 소통하며 적극적으로 생각을 공유합니다.<br/><br/>
+  * <mark>매끄러운 의사소통</mark>으로 주변과 원활하게 소통하며 적극적으로 생각을 공유합니다.<br>
   
-  * <mark>꾸준한 블로깅과 1일 1커밋</mark>으로 조금씩이라도 매일 성장하기 위해 노력합니다.<br/><br/>
+  * <mark>꾸준한 블로깅과 1일 1커밋</mark>으로 조금씩이라도 매일 성장하기 위해 노력합니다.<br>
   
-  * <mark>객체 지향적인 개발</mark>에 관심이 많고 <mark>테스트 주도적인 개발</mark>을 추구합니다.<br/><br/>
+  * <mark>객체 지향적인 개발</mark>에 관심이 많고 <mark>테스트 주도적인 개발</mark>을 추구합니다.<br>
+  
   
 # Skill Section
 # Skill_title: Skills
