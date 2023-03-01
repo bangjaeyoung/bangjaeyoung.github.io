@@ -1,23 +1,11 @@
 - layout: left
-  name: Maecenas eget massa ut eros viverra varius.
-  dates: 2023.01 ~ 2023.03
-  link: https://github.com/bangjaeyoung
+  dates: <h4>2018.03 ~ 2022.02</h4>
   description: | # this will include new lines to allow paragraphs
-    * Aenean in sapien suscipit, gravida ipsum id, porttitor mauris.
-    * Cras luctus quam at massa efficitur dictum.
+    <h4><b>&nbsp;&nbsp;&nbsp;&nbsp; 순천향대학교</b></h4>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 전자공학 학사 졸업
 
 - layout: left
-  name: Maecenas eget massa ut eros viverra varius.
-  dates: 2023.01 ~ 2023.03
-  link: https://github.com/bangjaeyoung
+  dates: <h4>2015.03 ~ 2018.02</h4>
   description: | # this will include new lines to allow paragraphs
-    * Aenean in sapien suscipit, gravida ipsum id, porttitor mauris.
-    * Cras luctus quam at massa efficitur dictum.
-
-- layout: left
-  name: Maecenas eget massa ut eros viverra varius.
-  dates: 2023.01 ~ 2023.03
-  link: https://github.com/bangjaeyoung
-  description: | # this will include new lines to allow paragraphs
-    * Aenean in sapien suscipit, gravida ipsum id, porttitor mauris.
-    * Cras luctus quam at massa efficitur dictum.
+    <h4><b>&nbsp;&nbsp;&nbsp;&nbsp; 인천 송도고등학교</b></h4>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 이공계 졸업
