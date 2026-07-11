@@ -1,0 +1,30 @@
+---
+---
+
+@use 'abstracts/variables' with (
+  $theme: '{{ site.theme_mode }}',
+  $radius-sm: 10px,
+  $radius-lg: 16px
+);
+
+/* prettier-ignore */
+@use 'main
+{%- if jekyll.environment == 'production' -%}
+  .bundle
+{%- endif -%}
+';
+
+/* append your custom style below */
+
+:root[data-bs-theme='dark'] {
+  --link-color: #3182f6;
+  --link-underline-color: rgb(49 130 246 / 40%);
+  --sidebar-active-color: #3182f6;
+  --sidebar-hover-bg: rgb(49 130 246 / 12%);
+  --toc-highlight: #3182f6;
+  --menu-active-color: #3182f6;
+  --checkbox-checked-color: #3182f6;
+  --card-hover-bg: rgb(49 130 246 / 10%);
+  --input-focus-border-color: #3182f6;
+  --footnote-target-bg: #3182f6;
+}

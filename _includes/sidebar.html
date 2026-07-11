@@ -12,10 +12,10 @@
       {% for tab in site.tabs %}
         {% if tab.title == "Dev" %}
           <li class="nav-item">
-            <span class="nav-link" style="cursor: default;">
+            <a class="nav-link" aria-disabled="true">
               <i class="fa-fw {{ tab.icon }}"></i>
               <span>{{ tab.title }}</span>
-            </span>
+            </a>
           </li>
           <!-- .nav-item -->
 
