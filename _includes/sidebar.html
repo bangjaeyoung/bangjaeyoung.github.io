@@ -15,16 +15,16 @@
             <i class="fa-fw {{ tab.icon }}"></i>
             {% capture tab_name %}{{ tab.url | split: '/' }}{% endcapture %}
 
-            <span>{{ site.data.locales[include.lang].tabs.[tab_name] | default: tab.title | upcase }}</span>
+            <span>{{ site.data.locales[include.lang].tabs.[tab_name] | default: tab.title }}</span>
           </a>
         </li>
         <!-- .nav-item -->
 
         {% if tab.title == "Dev" %}
-          <li class="nav-item ps-3">
-            <a href="{{ '/categories/troubleshooting/' | relative_url }}" class="nav-link">
+          <li class="nav-item ps-4">
+            <a href="{{ '/categories/troubleshooting/' | relative_url }}" class="nav-link small">
               <i class="fa-fw fas fa-wrench"></i>
-              <span>TROUBLESHOOTING</span>
+              <span>Troubleshooting</span>
             </a>
           </li>
           <!-- .nav-item -->
