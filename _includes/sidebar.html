@@ -19,6 +19,16 @@
           </a>
         </li>
         <!-- .nav-item -->
+
+        {% if tab.title == "Dev" %}
+          <li class="nav-item ps-3">
+            <a href="{{ '/categories/dev/troubleshooting/' | relative_url }}" class="nav-link">
+              <i class="fa-fw fas fa-wrench"></i>
+              <span>TROUBLESHOOTING</span>
+            </a>
+          </li>
+          <!-- .nav-item -->
+        {% endif %}
       {% endfor %}
     </ul>
   </nav>
