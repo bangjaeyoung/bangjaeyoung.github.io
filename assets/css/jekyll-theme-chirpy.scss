@@ -16,7 +16,7 @@
 
 /* append your custom style below */
 
-:root[data-bs-theme='dark'] {
+:root[data-bs-theme='light'] {
   --link-color: #3182f6;
   --link-underline-color: rgb(49 130 246 / 40%);
   --sidebar-active-color: #3182f6;
@@ -27,8 +27,4 @@
   --card-hover-bg: rgb(49 130 246 / 10%);
   --input-focus-border-color: #3182f6;
   --footnote-target-bg: #3182f6;
-
-  /* Brighter sidebar text for readability */
-  --site-title-color: #f2f2f2;
-  --sidebar-muted-color: #c7c7c7;
 }
